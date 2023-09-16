@@ -1,3 +1,32 @@
+html,
+body {
+  width: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+section {
+  padding: 30px;
+}
+
 section a {
   color: red;
+}
+
+header img {
+  width: 100px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
 }
